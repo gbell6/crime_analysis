@@ -1,0 +1,830 @@
+county_name,offense_name,offense_count,offense_rank
+APPLING,Drug/Narcotic Violations,59,1
+APPLING,All Other Larceny,47,2
+APPLING,Burglary/Breaking & Entering,39,3
+APPLING,Shoplifting,38,4
+APPLING,Simple Assault,36,5
+ATKINSON,Drug/Narcotic Violations,44,1
+ATKINSON,Drug Equipment Violations,29,2
+ATKINSON,Simple Assault,22,3
+ATKINSON,Burglary/Breaking & Entering,14,4
+ATKINSON,All Other Larceny,12,5
+BACON,All Other Larceny,55,1
+BACON,Destruction/Damage/Vandalism of Property,29,2
+BACON,Intimidation,27,3
+BACON,Simple Assault,27,4
+BACON,Burglary/Breaking & Entering,26,5
+BALDWIN,Simple Assault,505,1
+BALDWIN,All Other Larceny,496,2
+BALDWIN,Destruction/Damage/Vandalism of Property,344,3
+BALDWIN,Intimidation,200,4
+BALDWIN,Burglary/Breaking & Entering,161,5
+"BANKS, HABERSHAM",Drug/Narcotic Violations,21,1
+"BANKS, HABERSHAM",Simple Assault,5,2
+"BANKS, HABERSHAM",Destruction/Damage/Vandalism of Property,3,3
+"BANKS, HABERSHAM",Criminal Sexual Contact,2,4
+"BANKS, HABERSHAM",All Other Larceny,2,5
+"BANKS, JACKSON",Drug/Narcotic Violations,5,1
+"BANKS, JACKSON",Simple Assault,1,2
+BARROW,Drug/Narcotic Violations,503,1
+BARROW,All Other Larceny,497,2
+BARROW,Simple Assault,458,3
+BARROW,Destruction/Damage/Vandalism of Property,387,4
+BARROW,Intimidation,379,5
+"BARROW, GWINNETT",All Other Larceny,22,1
+"BARROW, GWINNETT",Destruction/Damage/Vandalism of Property,21,2
+"BARROW, GWINNETT",Drug/Narcotic Violations,16,3
+"BARROW, GWINNETT",Simple Assault,10,4
+"BARROW, GWINNETT",False Pretenses/Swindle/Confidence Game,8,5
+"BARROW, GWINNETT, HALL, JACKSON",Drug/Narcotic Violations,73,1
+"BARROW, GWINNETT, HALL, JACKSON",All Other Larceny,62,2
+"BARROW, GWINNETT, HALL, JACKSON",Simple Assault,54,3
+"BARROW, GWINNETT, HALL, JACKSON",False Pretenses/Swindle/Confidence Game,29,4
+"BARROW, GWINNETT, HALL, JACKSON",Destruction/Damage/Vandalism of Property,26,5
+BARTOW,All Other Larceny,861,1
+BARTOW,Simple Assault,424,2
+BARTOW,Destruction/Damage/Vandalism of Property,346,3
+BARTOW,Drug/Narcotic Violations,207,4
+BARTOW,Shoplifting,194,5
+BEN HILL,Intimidation,222,1
+BEN HILL,Destruction/Damage/Vandalism of Property,205,2
+BEN HILL,All Other Larceny,155,3
+BEN HILL,Simple Assault,128,4
+BEN HILL,Shoplifting,66,5
+BERRIEN,All Other Larceny,109,1
+BERRIEN,Drug/Narcotic Violations,97,2
+BERRIEN,Simple Assault,82,3
+BERRIEN,Intimidation,65,4
+BERRIEN,Burglary/Breaking & Entering,63,5
+BIBB,Destruction/Damage/Vandalism of Property,2140,1
+BIBB,Pocket-picking,1418,2
+BIBB,Theft From Motor Vehicle,1230,3
+BIBB,Simple Assault,1185,4
+BIBB,Motor Vehicle Theft,1178,5
+BLECKLEY,Drug/Narcotic Violations,75,1
+BLECKLEY,Simple Assault,62,2
+BLECKLEY,Destruction/Damage/Vandalism of Property,60,3
+BLECKLEY,All Other Larceny,52,4
+BLECKLEY,Theft From Motor Vehicle,46,5
+BRANTLEY,All Other Larceny,47,1
+BRANTLEY,Drug/Narcotic Violations,43,2
+BRANTLEY,Intimidation,43,3
+BRANTLEY,Burglary/Breaking & Entering,38,4
+BRANTLEY,Simple Assault,20,5
+BROOKS,Drug/Narcotic Violations,41,1
+BROOKS,All Other Larceny,38,2
+BROOKS,Burglary/Breaking & Entering,37,3
+BROOKS,Theft From Motor Vehicle,32,4
+BROOKS,Simple Assault,23,5
+BRYAN,Simple Assault,181,1
+BRYAN,All Other Larceny,164,2
+BRYAN,Destruction/Damage/Vandalism of Property,135,3
+BRYAN,Drug/Narcotic Violations,116,4
+BRYAN,Intimidation,73,5
+BULLOCH,Simple Assault,598,1
+BULLOCH,Theft From Motor Vehicle,361,2
+BULLOCH,All Other Larceny,291,3
+BULLOCH,Drug/Narcotic Violations,257,4
+BULLOCH,Shoplifting,189,5
+BURKE,Drug/Narcotic Violations,125,1
+BURKE,Simple Assault,104,2
+BURKE,All Other Larceny,98,3
+BURKE,Weapon Law Violations,53,4
+BURKE,Burglary/Breaking & Entering,47,5
+BUTTS,Drug/Narcotic Violations,253,1
+BUTTS,Drug Equipment Violations,67,2
+BUTTS,Simple Assault,64,3
+BUTTS,Destruction/Damage/Vandalism of Property,51,4
+BUTTS,All Other Larceny,49,5
+"CALHOUN, EARLY",Destruction/Damage/Vandalism of Property,16,1
+"CALHOUN, EARLY",Intimidation,16,2
+"CALHOUN, EARLY",Shoplifting,8,3
+"CALHOUN, EARLY",Burglary/Breaking & Entering,8,4
+"CALHOUN, EARLY",False Pretenses/Swindle/Confidence Game,8,5
+CAMDEN,Drug/Narcotic Violations,406,1
+CAMDEN,Simple Assault,256,2
+CAMDEN,All Other Larceny,238,3
+CAMDEN,Shoplifting,161,4
+CAMDEN,Destruction/Damage/Vandalism of Property,154,5
+CANDLER,Simple Assault,75,1
+CANDLER,All Other Larceny,50,2
+CANDLER,Theft From Motor Vehicle,35,3
+CANDLER,Burglary/Breaking & Entering,34,4
+CANDLER,Drug/Narcotic Violations,32,5
+CARROLL,All Other Larceny,461,1
+CARROLL,Drug/Narcotic Violations,358,2
+CARROLL,Simple Assault,302,3
+CARROLL,Intimidation,259,4
+CARROLL,Destruction/Damage/Vandalism of Property,211,5
+"CARROLL, DOUGLAS",Drug/Narcotic Violations,135,1
+"CARROLL, DOUGLAS",All Other Larceny,81,2
+"CARROLL, DOUGLAS",Shoplifting,65,3
+"CARROLL, DOUGLAS",Theft From Motor Vehicle,28,4
+"CARROLL, DOUGLAS",Destruction/Damage/Vandalism of Property,24,5
+"CARROLL, HARALSON",All Other Larceny,83,1
+"CARROLL, HARALSON",Shoplifting,57,2
+"CARROLL, HARALSON",Drug/Narcotic Violations,55,3
+"CARROLL, HARALSON",Burglary/Breaking & Entering,36,4
+"CARROLL, HARALSON",Destruction/Damage/Vandalism of Property,30,5
+CATOOSA,Simple Assault,193,1
+CATOOSA,Drug/Narcotic Violations,174,2
+CATOOSA,All Other Larceny,168,3
+CATOOSA,Intimidation,92,4
+CATOOSA,Aggravated Assault,54,5
+"CATOOSA, WALKER",Shoplifting,160,1
+"CATOOSA, WALKER",Drug/Narcotic Violations,90,2
+"CATOOSA, WALKER",All Other Larceny,85,3
+"CATOOSA, WALKER",Theft From Motor Vehicle,54,4
+"CATOOSA, WALKER",Simple Assault,53,5
+CHARLTON,Drug/Narcotic Violations,49,1
+CHARLTON,Drug Equipment Violations,28,2
+CHARLTON,All Other Larceny,9,3
+CHARLTON,Shoplifting,6,4
+CHARLTON,Destruction/Damage/Vandalism of Property,4,5
+CHATHAM,All Other Larceny,297,1
+CHATHAM,Shoplifting,283,2
+CHATHAM,Simple Assault,266,3
+CHATHAM,Theft From Motor Vehicle,235,4
+CHATHAM,Drug/Narcotic Violations,201,5
+CHATTOOGA,Shoplifting,122,1
+CHATTOOGA,Drug/Narcotic Violations,103,2
+CHATTOOGA,Simple Assault,99,3
+CHATTOOGA,All Other Larceny,94,4
+CHATTOOGA,Destruction/Damage/Vandalism of Property,57,5
+CHEROKEE,Simple Assault,956,1
+CHEROKEE,Drug/Narcotic Violations,736,2
+CHEROKEE,All Other Larceny,638,3
+CHEROKEE,Destruction/Damage/Vandalism of Property,524,4
+CHEROKEE,Shoplifting,489,5
+CLARKE,Simple Assault,1521,1
+CLARKE,All Other Larceny,1353,2
+CLARKE,Shoplifting,710,3
+CLARKE,Theft From Motor Vehicle,512,4
+CLARKE,Drug/Narcotic Violations,493,5
+CLAY,Simple Assault,13,1
+CLAY,Destruction/Damage/Vandalism of Property,10,2
+CLAY,All Other Larceny,9,3
+CLAY,Aggravated Assault,8,4
+CLAY,Burglary/Breaking & Entering,8,5
+CLAYTON,Simple Assault,1715,1
+CLAYTON,Destruction/Damage/Vandalism of Property,1653,2
+CLAYTON,All Other Larceny,1117,3
+CLAYTON,Theft From Motor Vehicle,801,4
+CLAYTON,Drug/Narcotic Violations,746,5
+"CLAYTON, FULTON",Drug/Narcotic Violations,605,1
+"CLAYTON, FULTON",Theft From Motor Vehicle,478,2
+"CLAYTON, FULTON",Destruction/Damage/Vandalism of Property,228,3
+"CLAYTON, FULTON",Simple Assault,212,4
+"CLAYTON, FULTON",All Other Larceny,193,5
+CLINCH,Burglary/Breaking & Entering,14,1
+CLINCH,All Other Larceny,12,2
+CLINCH,Intimidation,6,3
+CLINCH,Theft From Motor Vehicle,4,4
+CLINCH,Motor Vehicle Theft,4,5
+COBB,Simple Assault,4459,1
+COBB,All Other Larceny,3414,2
+COBB,Drug/Narcotic Violations,3269,3
+COBB,Destruction/Damage/Vandalism of Property,2905,4
+COBB,False Pretenses/Swindle/Confidence Game,2849,5
+"COBB, DOUGLAS",Drug/Narcotic Violations,28,1
+"COBB, DOUGLAS",Simple Assault,12,2
+"COBB, DOUGLAS",Destruction/Damage/Vandalism of Property,12,3
+"COBB, DOUGLAS",Theft From Motor Vehicle,9,4
+"COBB, DOUGLAS",All Other Larceny,5,5
+COFFEE,Simple Assault,216,1
+COFFEE,All Other Larceny,156,2
+COFFEE,Shoplifting,114,3
+COFFEE,Destruction/Damage/Vandalism of Property,98,4
+COFFEE,Intimidation,94,5
+COLQUITT,All Other Larceny,263,1
+COLQUITT,Shoplifting,198,2
+COLQUITT,Simple Assault,144,3
+COLQUITT,Theft From Motor Vehicle,113,4
+COLQUITT,Destruction/Damage/Vandalism of Property,110,5
+"COLQUITT, TIFT",Counterfeiting/Forgery,23,1
+"COLQUITT, TIFT",All Other Larceny,6,2
+"COLQUITT, TIFT",Criminal Sexual Contact,2,3
+"COLQUITT, TIFT",Aggravated Assault,2,4
+"COLQUITT, TIFT",Destruction/Damage/Vandalism of Property,1,5
+COLUMBIA,All Other Larceny,492,1
+COLUMBIA,Simple Assault,402,2
+COLUMBIA,Drug/Narcotic Violations,354,3
+COLUMBIA,Destruction/Damage/Vandalism of Property,286,4
+COLUMBIA,Shoplifting,284,5
+COOK,Destruction/Damage/Vandalism of Property,61,1
+COOK,Drug/Narcotic Violations,61,2
+COOK,All Other Larceny,40,3
+COOK,Simple Assault,26,4
+COOK,Burglary/Breaking & Entering,19,5
+COWETA,Drug/Narcotic Violations,1191,1
+COWETA,Simple Assault,875,2
+COWETA,All Other Larceny,690,3
+COWETA,Destruction/Damage/Vandalism of Property,546,4
+COWETA,Aggravated Assault,459,5
+"COWETA, FULTON",All Other Larceny,15,1
+"COWETA, FULTON",Simple Assault,8,2
+"COWETA, FULTON",Intimidation,6,3
+"COWETA, FULTON",Theft From Motor Vehicle,3,4
+"COWETA, FULTON",False Pretenses/Swindle/Confidence Game,3,5
+CRAWFORD,All Other Larceny,46,1
+CRAWFORD,Destruction/Damage/Vandalism of Property,30,2
+CRAWFORD,Burglary/Breaking & Entering,25,3
+CRAWFORD,Simple Assault,23,4
+CRAWFORD,Intimidation,23,5
+CRISP,All Other Larceny,184,1
+CRISP,Theft From Motor Vehicle,145,2
+CRISP,Simple Assault,104,3
+CRISP,Drug/Narcotic Violations,80,4
+CRISP,Shoplifting,75,5
+DADE,Drug/Narcotic Violations,72,1
+DADE,Simple Assault,35,2
+DADE,All Other Larceny,21,3
+DADE,Weapon Law Violations,13,4
+DADE,Destruction/Damage/Vandalism of Property,13,5
+DAWSON,Simple Assault,172,1
+DAWSON,Shoplifting,137,2
+DAWSON,All Other Larceny,105,3
+DAWSON,Drug/Narcotic Violations,87,4
+DAWSON,Impersonation,52,5
+DECATUR,Simple Assault,243,1
+DECATUR,Destruction/Damage/Vandalism of Property,227,2
+DECATUR,All Other Larceny,189,3
+DECATUR,Burglary/Breaking & Entering,128,4
+DECATUR,Drug/Narcotic Violations,126,5
+DEKALB,Simple Assault,9712,1
+DEKALB,Theft From Motor Vehicle,6691,2
+DEKALB,All Other Larceny,6359,3
+DEKALB,Destruction/Damage/Vandalism of Property,5620,4
+DEKALB,Motor Vehicle Theft,5216,5
+"DEKALB, FULTON",Theft From Motor Vehicle,5458,1
+"DEKALB, FULTON",Destruction/Damage/Vandalism of Property,3784,2
+"DEKALB, FULTON",Motor Vehicle Theft,3195,3
+"DEKALB, FULTON",Drug/Narcotic Violations,3174,4
+"DEKALB, FULTON",Simple Assault,3128,5
+"DEKALB, GWINNETT",All Other Larceny,197,1
+"DEKALB, GWINNETT",Theft From Motor Vehicle,149,2
+"DEKALB, GWINNETT",Simple Assault,140,3
+"DEKALB, GWINNETT",Drug/Narcotic Violations,122,4
+"DEKALB, GWINNETT",Shoplifting,105,5
+DODGE,All Other Larceny,128,1
+DODGE,Shoplifting,96,2
+DODGE,Simple Assault,78,3
+DODGE,Intimidation,56,4
+DODGE,Theft From Motor Vehicle,46,5
+DOUGHERTY,Simple Assault,928,1
+DOUGHERTY,All Other Larceny,585,2
+DOUGHERTY,Aggravated Assault,304,3
+DOUGHERTY,Intimidation,273,4
+DOUGHERTY,Destruction/Damage/Vandalism of Property,266,5
+DOUGLAS,Simple Assault,1197,1
+DOUGLAS,All Other Larceny,1042,2
+DOUGLAS,Shoplifting,923,3
+DOUGLAS,Destruction/Damage/Vandalism of Property,755,4
+DOUGLAS,Drug/Narcotic Violations,693,5
+EARLY,Destruction/Damage/Vandalism of Property,71,1
+EARLY,All Other Larceny,51,2
+EARLY,Simple Assault,50,3
+EARLY,Burglary/Breaking & Entering,36,4
+EARLY,Aggravated Assault,36,5
+ECHOLS,Drug/Narcotic Violations,8,1
+ECHOLS,Embezzlement,1,2
+ECHOLS,Robbery,1,3
+ECHOLS,All Other Larceny,1,4
+ECHOLS,Burglary/Breaking & Entering,1,5
+EFFINGHAM,Destruction/Damage/Vandalism of Property,107,1
+EFFINGHAM,Intimidation,106,2
+EFFINGHAM,Simple Assault,102,3
+EFFINGHAM,Drug/Narcotic Violations,98,4
+EFFINGHAM,All Other Larceny,81,5
+ELBERT,Simple Assault,125,1
+ELBERT,Drug/Narcotic Violations,103,2
+ELBERT,Destruction/Damage/Vandalism of Property,96,3
+ELBERT,All Other Larceny,70,4
+ELBERT,Intimidation,48,5
+EMANUEL,All Other Larceny,74,1
+EMANUEL,Drug/Narcotic Violations,64,2
+EMANUEL,Simple Assault,60,3
+EMANUEL,Intimidation,32,4
+EMANUEL,Shoplifting,29,5
+EVANS,Simple Assault,33,1
+EVANS,Shoplifting,25,2
+EVANS,Counterfeiting/Forgery,24,3
+EVANS,All Other Larceny,23,4
+EVANS,Intimidation,21,5
+FANNIN,Simple Assault,124,1
+FANNIN,Drug/Narcotic Violations,97,2
+FANNIN,All Other Larceny,77,3
+FANNIN,Destruction/Damage/Vandalism of Property,67,4
+FANNIN,Intimidation,47,5
+FAYETTE,Drug/Narcotic Violations,885,1
+FAYETTE,Shoplifting,415,2
+FAYETTE,All Other Larceny,388,3
+FAYETTE,False Pretenses/Swindle/Confidence Game,254,4
+FAYETTE,Simple Assault,203,5
+FLOYD,Simple Assault,1065,1
+FLOYD,Destruction/Damage/Vandalism of Property,734,2
+FLOYD,All Other Larceny,726,3
+FLOYD,Intimidation,533,4
+FLOYD,Drug/Narcotic Violations,532,5
+FORSYTH,Simple Assault,726,1
+FORSYTH,All Other Larceny,559,2
+FORSYTH,Drug/Narcotic Violations,519,3
+FORSYTH,Destruction/Damage/Vandalism of Property,396,4
+FORSYTH,Intimidation,361,5
+FRANKLIN,Drug/Narcotic Violations,214,1
+FRANKLIN,All Other Larceny,81,2
+FRANKLIN,Simple Assault,64,3
+FRANKLIN,Drug Equipment Violations,52,4
+FRANKLIN,Burglary/Breaking & Entering,34,5
+"FRANKLIN, HART",Drug/Narcotic Violations,3,1
+"FRANKLIN, HART",Destruction/Damage/Vandalism of Property,1,2
+"FRANKLIN, HART",Shoplifting,1,3
+"FRANKLIN, HART",Intimidation,1,4
+"FRANKLIN, HART",False Pretenses/Swindle/Confidence Game,1,5
+FULTON,False Pretenses/Swindle/Confidence Game,5178,1
+FULTON,Simple Assault,3884,2
+FULTON,All Other Larceny,3414,3
+FULTON,Destruction/Damage/Vandalism of Property,2987,4
+FULTON,Theft From Motor Vehicle,2302,5
+GILMER,Simple Assault,183,1
+GILMER,Destruction/Damage/Vandalism of Property,127,2
+GILMER,Intimidation,112,3
+GILMER,Drug/Narcotic Violations,91,4
+GILMER,All Other Larceny,85,5
+GLASCOCK,Simple Assault,10,1
+GLASCOCK,Drug/Narcotic Violations,10,2
+GLASCOCK,Motor Vehicle Theft,9,3
+GLASCOCK,All Other Larceny,9,4
+GLASCOCK,Drug Equipment Violations,8,5
+GLYNN,Simple Assault,718,1
+GLYNN,All Other Larceny,615,2
+GLYNN,Destruction/Damage/Vandalism of Property,509,3
+GLYNN,Shoplifting,352,4
+GLYNN,Theft From Motor Vehicle,277,5
+GORDON,Drug/Narcotic Violations,170,1
+GORDON,Simple Assault,150,2
+GORDON,Destruction/Damage/Vandalism of Property,118,3
+GORDON,All Other Larceny,112,4
+GORDON,Intimidation,73,5
+GRADY,All Other Larceny,83,1
+GRADY,Shoplifting,69,2
+GRADY,Simple Assault,67,3
+GRADY,Theft From Motor Vehicle,54,4
+GRADY,Burglary/Breaking & Entering,54,5
+GREENE,Drug/Narcotic Violations,78,1
+GREENE,Simple Assault,68,2
+GREENE,All Other Larceny,59,3
+GREENE,Weapon Law Violations,40,4
+GREENE,Destruction/Damage/Vandalism of Property,20,5
+GWINNETT,Simple Assault,6882,1
+GWINNETT,All Other Larceny,4224,2
+GWINNETT,Theft From Motor Vehicle,3301,3
+GWINNETT,Shoplifting,2772,4
+GWINNETT,Destruction/Damage/Vandalism of Property,2532,5
+"GWINNETT, WALTON",Simple Assault,74,1
+"GWINNETT, WALTON",All Other Larceny,68,2
+"GWINNETT, WALTON",Intimidation,35,3
+"GWINNETT, WALTON",Shoplifting,34,4
+"GWINNETT, WALTON",False Pretenses/Swindle/Confidence Game,33,5
+HABERSHAM,All Other Larceny,102,1
+HABERSHAM,Drug/Narcotic Violations,95,2
+HABERSHAM,Burglary/Breaking & Entering,46,3
+HABERSHAM,Simple Assault,43,4
+HABERSHAM,Destruction/Damage/Vandalism of Property,42,5
+HALL,Simple Assault,1660,1
+HALL,All Other Larceny,1105,2
+HALL,Destruction/Damage/Vandalism of Property,867,3
+HALL,Drug/Narcotic Violations,772,4
+HALL,False Pretenses/Swindle/Confidence Game,712,5
+HANCOCK,Drug/Narcotic Violations,11,1
+HANCOCK,Aggravated Assault,6,2
+HANCOCK,Shoplifting,6,3
+HANCOCK,Burglary/Breaking & Entering,6,4
+HANCOCK,Simple Assault,5,5
+HARALSON,All Other Larceny,147,1
+HARALSON,Burglary/Breaking & Entering,74,2
+HARALSON,Destruction/Damage/Vandalism of Property,68,3
+HARALSON,Intimidation,65,4
+HARALSON,Simple Assault,49,5
+HARRIS,Drug/Narcotic Violations,46,1
+HARRIS,Destruction/Damage/Vandalism of Property,14,2
+HARRIS,All Other Larceny,11,3
+HARRIS,False Pretenses/Swindle/Confidence Game,10,4
+HARRIS,Simple Assault,9,5
+"HARRIS, MERIWETHER",False Pretenses/Swindle/Confidence Game,7,1
+"HARRIS, MERIWETHER",Theft From Building,5,2
+"HARRIS, MERIWETHER",Aggravated Assault,4,3
+"HARRIS, MERIWETHER",All Other Larceny,4,4
+"HARRIS, MERIWETHER",Drug/Narcotic Violations,4,5
+HART,Simple Assault,107,1
+HART,Drug/Narcotic Violations,95,2
+HART,All Other Larceny,95,3
+HART,Destruction/Damage/Vandalism of Property,90,4
+HART,Intimidation,56,5
+HEARD,All Other Larceny,39,1
+HEARD,Destruction/Damage/Vandalism of Property,31,2
+HEARD,Burglary/Breaking & Entering,30,3
+HEARD,Intimidation,25,4
+HEARD,Simple Assault,14,5
+HENRY,Simple Assault,1922,1
+HENRY,All Other Larceny,1674,2
+HENRY,Theft From Motor Vehicle,953,3
+HENRY,Shoplifting,801,4
+HENRY,Destruction/Damage/Vandalism of Property,670,5
+HOUSTON,Destruction/Damage/Vandalism of Property,42,1
+HOUSTON,Shoplifting,34,2
+HOUSTON,Intimidation,27,3
+HOUSTON,Theft From Building,22,4
+HOUSTON,All Other Larceny,20,5
+"HOUSTON, PEACH",Simple Assault,1271,1
+"HOUSTON, PEACH",All Other Larceny,1145,2
+"HOUSTON, PEACH",Destruction/Damage/Vandalism of Property,975,3
+"HOUSTON, PEACH",Theft From Motor Vehicle,674,4
+"HOUSTON, PEACH",Intimidation,636,5
+IRWIN,Drug/Narcotic Violations,42,1
+IRWIN,Intimidation,33,2
+IRWIN,All Other Larceny,28,3
+IRWIN,Burglary/Breaking & Entering,19,4
+IRWIN,Theft From Building,18,5
+JACKSON,Simple Assault,232,1
+JACKSON,All Other Larceny,163,2
+JACKSON,Destruction/Damage/Vandalism of Property,148,3
+JACKSON,Drug/Narcotic Violations,128,4
+JACKSON,Intimidation,97,5
+JASPER,Drug/Narcotic Violations,167,1
+JASPER,Simple Assault,65,2
+JASPER,All Other Larceny,51,3
+JASPER,Destruction/Damage/Vandalism of Property,45,4
+JASPER,Intimidation,38,5
+JEFF DAVIS,All Other Larceny,55,1
+JEFF DAVIS,Simple Assault,48,2
+JEFF DAVIS,Shoplifting,39,3
+JEFF DAVIS,Burglary/Breaking & Entering,36,4
+JEFF DAVIS,Drug/Narcotic Violations,16,5
+JEFFERSON,Destruction/Damage/Vandalism of Property,73,1
+JEFFERSON,Simple Assault,65,2
+JEFFERSON,Intimidation,50,3
+JEFFERSON,All Other Larceny,46,4
+JEFFERSON,Drug/Narcotic Violations,43,5
+JENKINS,Simple Assault,28,1
+JENKINS,Destruction/Damage/Vandalism of Property,15,2
+JENKINS,All Other Larceny,12,3
+JENKINS,Aggravated Assault,10,4
+JENKINS,Intimidation,7,5
+JONES,Drug/Narcotic Violations,99,1
+JONES,All Other Larceny,70,2
+JONES,Destruction/Damage/Vandalism of Property,39,3
+JONES,Intimidation,39,4
+JONES,Simple Assault,37,5
+LAMAR,Burglary/Breaking & Entering,5,1
+LAMAR,Destruction/Damage/Vandalism of Property,4,2
+LAMAR,Theft From Building,4,3
+LAMAR,All Other Larceny,3,4
+LAMAR,Theft of Motor Vehicle Parts or Accessories,2,5
+LANIER,Destruction/Damage/Vandalism of Property,39,1
+LANIER,All Other Larceny,28,2
+LANIER,Drug/Narcotic Violations,26,3
+LANIER,Simple Assault,20,4
+LANIER,Burglary/Breaking & Entering,18,5
+LAURENS,Simple Assault,212,1
+LAURENS,All Other Larceny,159,2
+LAURENS,Drug/Narcotic Violations,134,3
+LAURENS,Intimidation,132,4
+LAURENS,Destruction/Damage/Vandalism of Property,124,5
+LEE,Simple Assault,109,1
+LEE,Destruction/Damage/Vandalism of Property,80,2
+LEE,All Other Larceny,80,3
+LEE,Shoplifting,47,4
+LEE,Theft From Motor Vehicle,41,5
+LIBERTY,Simple Assault,665,1
+LIBERTY,All Other Larceny,372,2
+LIBERTY,Destruction/Damage/Vandalism of Property,339,3
+LIBERTY,Theft From Motor Vehicle,206,4
+LIBERTY,Shoplifting,199,5
+LINCOLN,Simple Assault,13,1
+LINCOLN,Destruction/Damage/Vandalism of Property,13,2
+LINCOLN,All Other Larceny,12,3
+LINCOLN,Intimidation,11,4
+LINCOLN,Aggravated Assault,9,5
+LONG,All Other Larceny,7,1
+LONG,Burglary/Breaking & Entering,7,2
+LONG,Simple Assault,7,3
+LONG,Drug/Narcotic Violations,6,4
+LONG,Aggravated Assault,4,5
+LOWNDES,All Other Larceny,1426,1
+LOWNDES,Simple Assault,1360,2
+LOWNDES,Destruction/Damage/Vandalism of Property,899,3
+LOWNDES,Shoplifting,667,4
+LOWNDES,Drug/Narcotic Violations,649,5
+LUMPKIN,Simple Assault,153,1
+LUMPKIN,Destruction/Damage/Vandalism of Property,101,2
+LUMPKIN,All Other Larceny,76,3
+LUMPKIN,Intimidation,73,4
+LUMPKIN,Drug/Narcotic Violations,51,5
+MACON,Simple Assault,6,1
+MACON,Aggravated Assault,5,2
+MACON,Destruction/Damage/Vandalism of Property,3,3
+MACON,Theft From Building,2,4
+MACON,Drug/Narcotic Violations,2,5
+MADISON,Simple Assault,203,1
+MADISON,Destruction/Damage/Vandalism of Property,117,2
+MADISON,Drug/Narcotic Violations,111,3
+MADISON,All Other Larceny,77,4
+MADISON,Intimidation,74,5
+MARION,All Other Larceny,8,1
+MARION,Identity Theft,7,2
+MARION,Burglary/Breaking & Entering,7,3
+MARION,Destruction/Damage/Vandalism of Property,7,4
+MARION,Intimidation,6,5
+MCDUFFIE,All Other Larceny,52,1
+MCDUFFIE,Simple Assault,51,2
+MCDUFFIE,Burglary/Breaking & Entering,38,3
+MCDUFFIE,Aggravated Assault,18,4
+MCDUFFIE,Counterfeiting/Forgery,18,5
+MCINTOSH,Drug/Narcotic Violations,134,1
+MCINTOSH,All Other Larceny,46,2
+MCINTOSH,Burglary/Breaking & Entering,28,3
+MCINTOSH,Destruction/Damage/Vandalism of Property,24,4
+MCINTOSH,Simple Assault,24,5
+MERIWETHER,Drug/Narcotic Violations,49,1
+MERIWETHER,Simple Assault,47,2
+MERIWETHER,Destruction/Damage/Vandalism of Property,39,3
+MERIWETHER,Burglary/Breaking & Entering,37,4
+MERIWETHER,All Other Larceny,31,5
+"MERIWETHER, TALBOT",Drug/Narcotic Violations,79,1
+"MERIWETHER, TALBOT",Theft From Motor Vehicle,39,2
+"MERIWETHER, TALBOT",Destruction/Damage/Vandalism of Property,28,3
+"MERIWETHER, TALBOT",Burglary/Breaking & Entering,21,4
+"MERIWETHER, TALBOT",Theft From Building,18,5
+MITCHELL,Simple Assault,181,1
+MITCHELL,Destruction/Damage/Vandalism of Property,135,2
+MITCHELL,All Other Larceny,102,3
+MITCHELL,Intimidation,71,4
+MITCHELL,Drug/Narcotic Violations,51,5
+MONROE,Drug/Narcotic Violations,70,1
+MONROE,Weapon Law Violations,15,2
+MONROE,Drug Equipment Violations,14,3
+MONROE,Impersonation,13,4
+MONROE,Intimidation,12,5
+MONTGOMERY,Burglary/Breaking & Entering,19,1
+MONTGOMERY,Simple Assault,16,2
+MONTGOMERY,Aggravated Assault,12,3
+MONTGOMERY,Theft From Building,8,4
+MONTGOMERY,Theft From Motor Vehicle,8,5
+"MONTGOMERY, TOOMBS",All Other Larceny,247,1
+"MONTGOMERY, TOOMBS",Simple Assault,163,2
+"MONTGOMERY, TOOMBS",Shoplifting,122,3
+"MONTGOMERY, TOOMBS",Credit Card/Automated Teller Machine Fraud,82,4
+"MONTGOMERY, TOOMBS",Destruction/Damage/Vandalism of Property,78,5
+MORGAN,All Other Larceny,32,1
+MORGAN,Theft From Motor Vehicle,30,2
+MORGAN,Shoplifting,28,3
+MORGAN,Destruction/Damage/Vandalism of Property,17,4
+MORGAN,Counterfeiting/Forgery,13,5
+MURRAY,Drug/Narcotic Violations,236,1
+MURRAY,Simple Assault,133,2
+MURRAY,Drug Equipment Violations,120,3
+MURRAY,All Other Larceny,38,4
+MURRAY,Aggravated Assault,23,5
+MUSCOGEE,Simple Assault,1612,1
+MUSCOGEE,All Other Larceny,1236,2
+MUSCOGEE,Theft From Motor Vehicle,1010,3
+MUSCOGEE,Shoplifting,877,4
+MUSCOGEE,Destruction/Damage/Vandalism of Property,742,5
+NEWTON,Simple Assault,906,1
+NEWTON,Destruction/Damage/Vandalism of Property,758,2
+NEWTON,All Other Larceny,624,3
+NEWTON,Intimidation,494,4
+NEWTON,Theft From Motor Vehicle,375,5
+"NEWTON, WALTON",Drug/Narcotic Violations,5,1
+"NEWTON, WALTON",All Other Larceny,4,2
+"NEWTON, WALTON",Theft From Motor Vehicle,3,3
+"NEWTON, WALTON",Intimidation,3,4
+"NEWTON, WALTON",Simple Assault,3,5
+OCONEE,Shoplifting,256,1
+OCONEE,All Other Larceny,181,2
+OCONEE,Simple Assault,147,3
+OCONEE,Drug/Narcotic Violations,90,4
+OCONEE,Impersonation,40,5
+PAULDING,Simple Assault,1244,1
+PAULDING,Destruction/Damage/Vandalism of Property,746,2
+PAULDING,All Other Larceny,677,3
+PAULDING,Intimidation,504,4
+PAULDING,Shoplifting,354,5
+"PAULDING, POLK",Intimidation,1,1
+PEACH,Theft From Motor Vehicle,45,1
+PEACH,All Other Larceny,35,2
+PEACH,Simple Assault,27,3
+PEACH,Intimidation,18,4
+PEACH,Drug/Narcotic Violations,14,5
+PICKENS,All Other Larceny,153,1
+PICKENS,Simple Assault,100,2
+PICKENS,Drug/Narcotic Violations,61,3
+PICKENS,Burglary/Breaking & Entering,36,4
+PICKENS,Impersonation,26,5
+PIERCE,Drug/Narcotic Violations,219,1
+PIERCE,Simple Assault,59,2
+PIERCE,Destruction/Damage/Vandalism of Property,58,3
+PIERCE,Intimidation,48,4
+PIERCE,All Other Larceny,44,5
+"PIERCE, WARE",All Other Larceny,239,1
+"PIERCE, WARE",Simple Assault,204,2
+"PIERCE, WARE",Shoplifting,198,3
+"PIERCE, WARE",Drug/Narcotic Violations,158,4
+"PIERCE, WARE",Theft From Motor Vehicle,123,5
+PIKE,Simple Assault,52,1
+PIKE,Drug/Narcotic Violations,41,2
+PIKE,Destruction/Damage/Vandalism of Property,35,3
+PIKE,Burglary/Breaking & Entering,22,4
+PIKE,False Pretenses/Swindle/Confidence Game,17,5
+POLK,All Other Larceny,276,1
+POLK,Drug/Narcotic Violations,160,2
+POLK,Intimidation,95,3
+POLK,Destruction/Damage/Vandalism of Property,79,4
+POLK,Simple Assault,78,5
+PULASKI,Simple Assault,47,1
+PULASKI,All Other Larceny,37,2
+PULASKI,Destruction/Damage/Vandalism of Property,30,3
+PULASKI,Burglary/Breaking & Entering,16,4
+PULASKI,Intimidation,15,5
+PUTNAM,Simple Assault,93,1
+PUTNAM,All Other Larceny,82,2
+PUTNAM,Shoplifting,59,3
+PUTNAM,Destruction/Damage/Vandalism of Property,52,4
+PUTNAM,Drug/Narcotic Violations,34,5
+RABUN,All Other Larceny,59,1
+RABUN,Drug/Narcotic Violations,47,2
+RABUN,Destruction/Damage/Vandalism of Property,31,3
+RABUN,Simple Assault,31,4
+RABUN,Intimidation,25,5
+RANDOLPH,Simple Assault,8,1
+RANDOLPH,Destruction/Damage/Vandalism of Property,5,2
+RANDOLPH,Drug/Narcotic Violations,5,3
+RANDOLPH,All Other Larceny,3,4
+RANDOLPH,Burglary/Breaking & Entering,3,5
+RICHMOND,Simple Assault,3702,1
+RICHMOND,All Other Larceny,2402,2
+RICHMOND,Theft From Motor Vehicle,1536,3
+RICHMOND,Burglary/Breaking & Entering,1077,4
+RICHMOND,Shoplifting,919,5
+ROCKDALE,All Other Larceny,475,1
+ROCKDALE,Simple Assault,390,2
+ROCKDALE,Destruction/Damage/Vandalism of Property,253,3
+ROCKDALE,Shoplifting,201,4
+ROCKDALE,False Pretenses/Swindle/Confidence Game,189,5
+SCHLEY,All Other Larceny,20,1
+SCHLEY,Simple Assault,13,2
+SCHLEY,Destruction/Damage/Vandalism of Property,11,3
+SCHLEY,Drug/Narcotic Violations,10,4
+SCHLEY,Burglary/Breaking & Entering,10,5
+SCREVEN,All Other Larceny,9,1
+SCREVEN,Simple Assault,8,2
+SCREVEN,Shoplifting,3,3
+SCREVEN,Burglary/Breaking & Entering,3,4
+SCREVEN,Intimidation,3,5
+SEMINOLE,Drug/Narcotic Violations,58,1
+SEMINOLE,All Other Larceny,24,2
+SEMINOLE,Burglary/Breaking & Entering,18,3
+SEMINOLE,Simple Assault,12,4
+SEMINOLE,Aggravated Assault,11,5
+SPALDING,Destruction/Damage/Vandalism of Property,593,1
+SPALDING,Simple Assault,556,2
+SPALDING,All Other Larceny,432,3
+SPALDING,Drug/Narcotic Violations,329,4
+SPALDING,Shoplifting,259,5
+STEPHENS,All Other Larceny,113,1
+STEPHENS,Shoplifting,65,2
+STEPHENS,Destruction/Damage/Vandalism of Property,32,3
+STEPHENS,Theft From Motor Vehicle,28,4
+STEPHENS,Simple Assault,25,5
+SUMTER,All Other Larceny,211,1
+SUMTER,Theft From Motor Vehicle,161,2
+SUMTER,Shoplifting,154,3
+SUMTER,Simple Assault,141,4
+SUMTER,Aggravated Assault,135,5
+TALBOT,Drug/Narcotic Violations,32,1
+TALBOT,Destruction/Damage/Vandalism of Property,17,2
+TALBOT,Simple Assault,12,3
+TALBOT,All Other Larceny,12,4
+TALBOT,Intimidation,9,5
+TATTNALL,Drug/Narcotic Violations,37,1
+TATTNALL,Burglary/Breaking & Entering,35,2
+TATTNALL,All Other Larceny,34,3
+TATTNALL,Intimidation,24,4
+TATTNALL,Simple Assault,23,5
+TAYLOR,Burglary/Breaking & Entering,1,1
+TELFAIR,All Other Larceny,28,1
+TELFAIR,Burglary/Breaking & Entering,18,2
+TELFAIR,Simple Assault,15,3
+TELFAIR,Aggravated Assault,12,4
+TELFAIR,Intimidation,5,5
+TERRELL,Burglary/Breaking & Entering,15,1
+TERRELL,Aggravated Assault,13,2
+TERRELL,Theft From Building,12,3
+TERRELL,Simple Assault,10,4
+TERRELL,Shoplifting,9,5
+THOMAS,Simple Assault,278,1
+THOMAS,All Other Larceny,225,2
+THOMAS,Shoplifting,221,3
+THOMAS,Drug/Narcotic Violations,201,4
+THOMAS,Destruction/Damage/Vandalism of Property,176,5
+TIFT,Simple Assault,289,1
+TIFT,All Other Larceny,177,2
+TIFT,Destruction/Damage/Vandalism of Property,174,3
+TIFT,Intimidation,145,4
+TIFT,False Pretenses/Swindle/Confidence Game,114,5
+TOOMBS,Simple Assault,5,1
+TOOMBS,Drug/Narcotic Violations,3,2
+TOOMBS,False Pretenses/Swindle/Confidence Game,3,3
+TOOMBS,Burglary/Breaking & Entering,2,4
+TOOMBS,Destruction/Damage/Vandalism of Property,1,5
+TOWNS,Drug/Narcotic Violations,39,1
+TOWNS,Drug Equipment Violations,22,2
+TOWNS,Simple Assault,14,3
+TOWNS,Aggravated Assault,6,4
+TOWNS,Intimidation,4,5
+TREUTLEN,All Other Larceny,18,1
+TREUTLEN,Intimidation,12,2
+TREUTLEN,Simple Assault,12,3
+TREUTLEN,Aggravated Assault,11,4
+TREUTLEN,Destruction/Damage/Vandalism of Property,8,5
+TROUP,Simple Assault,911,1
+TROUP,All Other Larceny,737,2
+TROUP,Shoplifting,518,3
+TROUP,Destruction/Damage/Vandalism of Property,458,4
+TROUP,Drug/Narcotic Violations,305,5
+TURNER,All Other Larceny,15,1
+TURNER,Destruction/Damage/Vandalism of Property,14,2
+TURNER,Burglary/Breaking & Entering,10,3
+TURNER,Intimidation,10,4
+TURNER,Drug/Narcotic Violations,9,5
+TWIGGS,Drug/Narcotic Violations,123,1
+TWIGGS,All Other Larceny,24,2
+TWIGGS,Simple Assault,15,3
+TWIGGS,Motor Vehicle Theft,15,4
+TWIGGS,Burglary/Breaking & Entering,14,5
+UNION,Drug/Narcotic Violations,63,1
+UNION,All Other Larceny,32,2
+UNION,False Pretenses/Swindle/Confidence Game,20,3
+UNION,Intimidation,16,4
+UNION,Burglary/Breaking & Entering,15,5
+UPSON,All Other Larceny,84,1
+UPSON,Shoplifting,73,2
+UPSON,Drug/Narcotic Violations,62,3
+UPSON,Simple Assault,40,4
+UPSON,Theft From Motor Vehicle,39,5
+WALKER,Simple Assault,11,1
+WALKER,All Other Larceny,11,2
+WALKER,Intimidation,7,3
+WALKER,Drug/Narcotic Violations,4,4
+WALKER,Destruction/Damage/Vandalism of Property,3,5
+WALTON,Drug/Narcotic Violations,229,1
+WALTON,Simple Assault,221,2
+WALTON,False Pretenses/Swindle/Confidence Game,178,3
+WALTON,Destruction/Damage/Vandalism of Property,128,4
+WALTON,All Other Larceny,107,5
+WARE,Drug/Narcotic Violations,91,1
+WARE,Simple Assault,69,2
+WARE,Destruction/Damage/Vandalism of Property,39,3
+WARE,All Other Larceny,37,4
+WARE,Burglary/Breaking & Entering,35,5
+WASHINGTON,Simple Assault,27,1
+WASHINGTON,All Other Larceny,18,2
+WASHINGTON,Shoplifting,14,3
+WASHINGTON,Aggravated Assault,11,4
+WASHINGTON,Destruction/Damage/Vandalism of Property,7,5
+WAYNE,Simple Assault,33,1
+WAYNE,Destruction/Damage/Vandalism of Property,17,2
+WAYNE,Drug/Narcotic Violations,15,3
+WAYNE,Intimidation,14,4
+WAYNE,All Other Larceny,14,5
+WHEELER,Simple Assault,20,1
+WHEELER,Destruction/Damage/Vandalism of Property,16,2
+WHEELER,All Other Larceny,15,3
+WHEELER,Burglary/Breaking & Entering,12,4
+WHEELER,Intimidation,10,5
+WHITE,Drug/Narcotic Violations,117,1
+WHITE,All Other Larceny,66,2
+WHITE,Shoplifting,37,3
+WHITE,Destruction/Damage/Vandalism of Property,33,4
+WHITE,Simple Assault,29,5
+WHITFIELD,Simple Assault,594,1
+WHITFIELD,Drug/Narcotic Violations,515,2
+WHITFIELD,All Other Larceny,484,3
+WHITFIELD,Destruction/Damage/Vandalism of Property,454,4
+WHITFIELD,Intimidation,359,5
+WILCOX,Simple Assault,7,1
+WILCOX,Intimidation,5,2
+WILCOX,All Other Larceny,5,3
+WILCOX,Drug/Narcotic Violations,4,4
+WILCOX,Burglary/Breaking & Entering,3,5
+WILKES,Destruction/Damage/Vandalism of Property,52,1
+WILKES,Drug/Narcotic Violations,37,2
+WILKES,All Other Larceny,35,3
+WILKES,Simple Assault,35,4
+WILKES,Aggravated Assault,25,5
+WORTH,Drug/Narcotic Violations,96,1
+WORTH,Destruction/Damage/Vandalism of Property,60,2
+WORTH,All Other Larceny,59,3
+WORTH,Simple Assault,58,4
+WORTH,Intimidation,43,5
