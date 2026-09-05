@@ -23,10 +23,15 @@ The Analysis utilized a locally hosted PostgreSQL database for data storage and 
 ##### File Structure:
 
 crime_analysis/
+
 ├── data/             # Source NIBRS data
+
 ├── sql/              # Schema, analytical views, and export scripts
+
 ├── visualizations/   # Tableau workbook
+
 ├── viz_data/         # Tableau-ready exports
+
 └── nibrs_diagram.pdf # Original NIBRS schema diagram
 
 ### Limitations
