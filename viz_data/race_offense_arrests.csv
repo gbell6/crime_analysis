@@ -1,0 +1,223 @@
+race_desc,offense_name,offense_count
+American Indian or Alaska Native,Simple Assault,42
+American Indian or Alaska Native,Drug/Narcotic Violations,33
+American Indian or Alaska Native,Shoplifting,20
+American Indian or Alaska Native,Aggravated Assault,11
+American Indian or Alaska Native,All Other Larceny,11
+American Indian or Alaska Native,Intimidation,9
+American Indian or Alaska Native,Destruction/Damage/Vandalism of Property,7
+American Indian or Alaska Native,Betting/Wagering,4
+American Indian or Alaska Native,False Pretenses/Swindle/Confidence Game,3
+American Indian or Alaska Native,Weapon Law Violations,2
+American Indian or Alaska Native,Drug Equipment Violations,2
+American Indian or Alaska Native,Stolen Property Offenses,2
+American Indian or Alaska Native,Burglary/Breaking & Entering,2
+American Indian or Alaska Native,Sodomy,1
+American Indian or Alaska Native,All Other Offenses,1
+American Indian or Alaska Native,Pornography/Obscene Material,1
+American Indian or Alaska Native,Motor Vehicle Theft,1
+American Indian or Alaska Native,Theft From Building,1
+American Indian or Alaska Native,Murder and Nonnegligent Manslaughter,1
+Asian,Simple Assault,202
+Asian,Shoplifting,189
+Asian,Drug/Narcotic Violations,141
+Asian,Aggravated Assault,75
+Asian,Destruction/Damage/Vandalism of Property,30
+Asian,Intimidation,30
+Asian,All Other Larceny,28
+Asian,Prostitution,26
+Asian,False Pretenses/Swindle/Confidence Game,16
+Asian,Stolen Property Offenses,13
+Asian,Assisting or Promoting Prostitution,12
+Asian,Weapon Law Violations,10
+Asian,Counterfeiting/Forgery,8
+Asian,Kidnapping/Abduction,7
+Asian,Burglary/Breaking & Entering,6
+Asian,Betting/Wagering,5
+Asian,Driving Under the Influence,4
+Asian,Sodomy,4
+Asian,"Human Trafficking, Involuntary Servitude",4
+Asian,Murder and Nonnegligent Manslaughter,4
+Asian,Theft From Building,4
+Asian,Robbery,3
+Asian,All Other Offenses,3
+Asian,Pornography/Obscene Material,2
+Asian,Rape,2
+Asian,Drug Equipment Violations,2
+Asian,Disorderly Conduct,2
+Asian,Animal Cruelty,2
+Asian,Curfew/Loitering/Vagrancy Violations,2
+Asian,Credit Card/Automated Teller Machine Fraud,2
+Asian,Extortion/Blackmail,2
+Asian,Impersonation,2
+Asian,Arson,2
+Asian,"Human Trafficking, Commercial Sex Acts",2
+Asian,Criminal Sexual Contact,2
+Asian,Trespass of Real Property,1
+Asian,Pocket-picking,1
+Asian,Motor Vehicle Theft,1
+Asian,Theft From Motor Vehicle,1
+Asian,Incest,1
+Asian,Sexual Assault With An Object,1
+Black or African American,Drug/Narcotic Violations,13571
+Black or African American,Simple Assault,11108
+Black or African American,Shoplifting,6595
+Black or African American,Aggravated Assault,4812
+Black or African American,False Pretenses/Swindle/Confidence Game,3511
+Black or African American,Destruction/Damage/Vandalism of Property,2237
+Black or African American,All Other Larceny,1920
+Black or African American,Weapon Law Violations,1835
+Black or African American,Intimidation,1712
+Black or African American,Stolen Property Offenses,1271
+Black or African American,Theft From Motor Vehicle,1117
+Black or African American,Burglary/Breaking & Entering,914
+Black or African American,All Other Offenses,883
+Black or African American,Robbery,680
+Black or African American,Drug Equipment Violations,671
+Black or African American,Motor Vehicle Theft,574
+Black or African American,Counterfeiting/Forgery,507
+Black or African American,Kidnapping/Abduction,414
+Black or African American,Murder and Nonnegligent Manslaughter,288
+Black or African American,Disorderly Conduct,232
+Black or African American,Credit Card/Automated Teller Machine Fraud,197
+Black or African American,Criminal Sexual Contact,185
+Black or African American,Trespass of Real Property,171
+Black or African American,Theft From Building,144
+Black or African American,Impersonation,135
+Black or African American,Curfew/Loitering/Vagrancy Violations,129
+Black or African American,Driving Under the Influence,127
+Black or African American,Identity Theft,77
+Black or African American,Sodomy,68
+Black or African American,Rape,67
+Black or African American,Pornography/Obscene Material,66
+Black or African American,"Family Offenses, Nonviolent",61
+Black or African American,Prostitution,54
+Black or African American,Arson,51
+Black or African American,Animal Cruelty,47
+Black or African American,Sexual Assault With An Object,32
+Black or African American,Pocket-picking,31
+Black or African American,Purse-snatching,28
+Black or African American,Assisting or Promoting Prostitution,26
+Black or African American,Liquor Law Violations,25
+Black or African American,Statutory Rape,24
+Black or African American,Betting/Wagering,18
+Black or African American,Embezzlement,18
+Black or African American,Theft of Motor Vehicle Parts or Accessories,17
+Black or African American,Negligent Manslaughter,17
+Black or African American,Extortion/Blackmail,8
+Black or African American,"Human Trafficking, Involuntary Servitude",7
+Black or African American,"Human Trafficking, Commercial Sex Acts",6
+Black or African American,Incest,3
+Black or African American,Hacking/Computer Invasion,2
+Black or African American,Theft From Coin-Operated Machine or Device,2
+Black or African American,Wire Fraud,1
+Black or African American,Purchasing Prostitution,1
+Black or African American,Bribery,1
+Native Hawaiian or Other Pacific Islander,Shoplifting,14
+Native Hawaiian or Other Pacific Islander,Simple Assault,13
+Native Hawaiian or Other Pacific Islander,Drug/Narcotic Violations,9
+Native Hawaiian or Other Pacific Islander,Intimidation,2
+Native Hawaiian or Other Pacific Islander,All Other Larceny,2
+Native Hawaiian or Other Pacific Islander,Aggravated Assault,2
+Native Hawaiian or Other Pacific Islander,Weapon Law Violations,2
+Native Hawaiian or Other Pacific Islander,Rape,1
+Native Hawaiian or Other Pacific Islander,Stolen Property Offenses,1
+Native Hawaiian or Other Pacific Islander,Theft From Motor Vehicle,1
+Native Hawaiian or Other Pacific Islander,Destruction/Damage/Vandalism of Property,1
+Native Hawaiian or Other Pacific Islander,Counterfeiting/Forgery,1
+Native Hawaiian or Other Pacific Islander,Drug Equipment Violations,1
+Native Hawaiian or Other Pacific Islander,Burglary/Breaking & Entering,1
+Native Hawaiian or Other Pacific Islander,False Pretenses/Swindle/Confidence Game,1
+Native Hawaiian or Other Pacific Islander,Robbery,1
+Unknown,Drug/Narcotic Violations,283
+Unknown,Shoplifting,180
+Unknown,Simple Assault,172
+Unknown,Aggravated Assault,56
+Unknown,Destruction/Damage/Vandalism of Property,42
+Unknown,All Other Larceny,32
+Unknown,Weapon Law Violations,25
+Unknown,Drug Equipment Violations,22
+Unknown,False Pretenses/Swindle/Confidence Game,19
+Unknown,Intimidation,18
+Unknown,Theft From Motor Vehicle,16
+Unknown,Burglary/Breaking & Entering,15
+Unknown,Stolen Property Offenses,14
+Unknown,Counterfeiting/Forgery,14
+Unknown,Criminal Sexual Contact,9
+Unknown,Motor Vehicle Theft,9
+Unknown,Kidnapping/Abduction,4
+Unknown,Robbery,4
+Unknown,Rape,4
+Unknown,Arson,3
+Unknown,Murder and Nonnegligent Manslaughter,3
+Unknown,Trespass of Real Property,3
+Unknown,Driving Under the Influence,2
+Unknown,Sodomy,2
+Unknown,Theft From Building,2
+Unknown,Gambling Equipment Violation,2
+Unknown,Theft From Coin-Operated Machine or Device,2
+Unknown,Impersonation,2
+Unknown,Credit Card/Automated Teller Machine Fraud,2
+Unknown,All Other Offenses,2
+Unknown,Disorderly Conduct,2
+Unknown,Theft of Motor Vehicle Parts or Accessories,1
+Unknown,"Human Trafficking, Involuntary Servitude",1
+Unknown,Liquor Law Violations,1
+Unknown,Animal Cruelty,1
+Unknown,Statutory Rape,1
+Unknown,Pocket-picking,1
+White,Drug/Narcotic Violations,10650
+White,Simple Assault,7532
+White,Shoplifting,5188
+White,Aggravated Assault,2618
+White,Destruction/Damage/Vandalism of Property,1576
+White,Intimidation,1554
+White,All Other Larceny,1430
+White,Burglary/Breaking & Entering,829
+White,False Pretenses/Swindle/Confidence Game,812
+White,Weapon Law Violations,627
+White,Drug Equipment Violations,612
+White,Stolen Property Offenses,458
+White,Motor Vehicle Theft,412
+White,Counterfeiting/Forgery,404
+White,All Other Offenses,389
+White,Theft From Motor Vehicle,295
+White,Kidnapping/Abduction,295
+White,Criminal Sexual Contact,217
+White,Driving Under the Influence,154
+White,Robbery,153
+White,Theft From Building,145
+White,Credit Card/Automated Teller Machine Fraud,130
+White,Disorderly Conduct,110
+White,Pornography/Obscene Material,104
+White,Sodomy,103
+White,Trespass of Real Property,102
+White,Animal Cruelty,82
+White,Impersonation,77
+White,Arson,75
+White,Prostitution,73
+White,Rape,62
+White,Murder and Nonnegligent Manslaughter,61
+White,Curfew/Loitering/Vagrancy Violations,51
+White,Assisting or Promoting Prostitution,35
+White,Liquor Law Violations,32
+White,Statutory Rape,32
+White,"Family Offenses, Nonviolent",30
+White,"Human Trafficking, Commercial Sex Acts",30
+White,Identity Theft,30
+White,Sexual Assault With An Object,28
+White,Theft of Motor Vehicle Parts or Accessories,19
+White,Negligent Manslaughter,18
+White,Pocket-picking,16
+White,Embezzlement,13
+White,Betting/Wagering,11
+White,Bribery,9
+White,Incest,5
+White,Extortion/Blackmail,3
+White,Hacking/Computer Invasion,3
+White,Purse-snatching,2
+White,Theft From Coin-Operated Machine or Device,2
+White,"Human Trafficking, Involuntary Servitude",2
+White,Wire Fraud,1
+White,Operating/Promoting/Assisting Gambling,1
+White,Sports Tampering,1
